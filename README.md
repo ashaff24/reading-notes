@@ -23,4 +23,4 @@ In the words of Steve Haffenden:
 
 > We live in a society where the instant gratification monkey sits on everyone’s shoulder. But the pleasures that result from determination and hard work far outweigh anything that devilish chimp has to offer. 
 
--[Steve Haffenden article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[Steve Haffenden article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
