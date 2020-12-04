@@ -6,6 +6,8 @@ I am passionate about animals, but need a career shift and am excited to learn s
 
 I have four legged children: two dogs, a cat, and a tortoise.
 
+![tortoise picture](https://www.thesprucepets.com/thmb/ZhoosbjJW0_47-asAJBy23wo1v8=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Indianstartortoise-GettyImages-158473585-590f87235f9b586470b20633.jpg)
+
 ## This is a heading 2
 
 ### Let's talk about growth mindset
