@@ -17,9 +17,9 @@ This is the way of formatting your webpage within GitHub.
 - ![text](link to image)
 - to find link for images online: right click on image and copy address
 
-- To see other options for markdown syntax, visit (insert webpage here)
+**To see other options for markdown syntax, visit [Markdown Cheatsheet](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)**
 
-## **Why use markdown?**
+## Why use markdown?
 
 - A quicker way of authoring than HTML
 - Easy way to create a static webpage to just share content
