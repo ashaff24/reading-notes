@@ -4,6 +4,8 @@ Hi, my name is Amanda. I have worked in the animal care world for 20 years and a
 
 I have four-legged children: two dogs, a cat, and a tortoise.
 
+[GitHub Portfolio page](https://github.com/ashaff24)
+
 ![tortoise picture](https://www.thesprucepets.com/thmb/ZhoosbjJW0_47-asAJBy23wo1v8=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Indianstartortoise-GettyImages-158473585-590f87235f9b586470b20633.jpg)
 
 ## Reading Links
