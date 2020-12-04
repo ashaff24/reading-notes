@@ -8,7 +8,9 @@ I have four legged children: two dogs, a cat, and a tortoise.
 
 ![tortoise picture](https://www.thesprucepets.com/thmb/ZhoosbjJW0_47-asAJBy23wo1v8=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Indianstartortoise-GettyImages-158473585-590f87235f9b586470b20633.jpg)
 
-## This is a heading 2
+## Table of contents for reading
+
+- [Class 1: Growth Mindset](growthmindset.md)
 
 ### Let's talk about growth mindset
 
