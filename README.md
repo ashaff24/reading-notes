@@ -18,3 +18,6 @@ Growth mindset is a more flexible way of thinking than a fixed mindset. This sug
 - Learn from criticism as I move forward on this coding journey
 - Embrace each challenge that presents itself and let it encourage me
 - Push through obstacles instead of telling myself I am not smart enough to figure it out.
+
+In the words of Steve Haffenden:
+<We live in a society where the instant gratification monkey sits on everyone’s shoulder. But the pleasures that result from determination and hard work far outweigh anything that devilish chimp has to offer. 
