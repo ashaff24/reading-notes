@@ -6,14 +6,14 @@ This is the way of formatting your webpage within GitHub.
 - Click on pencil to edit file
 - Can now begin using markdown syntax to format parts of your webpage
 
-### *To use headers*:
+#### *To use headers*:
 - use # sign followed by a space and your text
 - to change the header size, remove or add # to your text
 
-### *To make lists*:
+#### *To make lists*:
 - unordered lists can use an asterisk, minus sign, or plus sign
 
-### *To insert an image*:
+#### *To insert an image*:
 - ![text](link to image)
 - to find link for images online: right click on image and copy address
 
