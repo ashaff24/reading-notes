@@ -9,7 +9,6 @@ I have four-legged children: two dogs, a cat, and a tortoise.
 ## Reading Links
 
 - [Class 1: Growth Mindset](growthmindset.md)
-- [Class 2: Blah Blah Blah]()
 
 ### What is growth mindset?
 
