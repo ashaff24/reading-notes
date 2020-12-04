@@ -8,4 +8,10 @@ I have four legged children: two dogs, a cat, and a tortoise.
 
 ## This is a heading 2
 
-### This is a heading 3
+### Let's talk about growth mindset
+
+How can I keep myself in a growth mindset?
+
+- Self discovery
+- Be mindful of my thinking
+- Read about growth mindset
