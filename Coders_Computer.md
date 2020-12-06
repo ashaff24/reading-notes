@@ -1,17 +1,24 @@
-# Notes From Class:
+# Text Editors
+- Examples
+  - Microsoft Word
+  - Google Docs
+  - Apple Pages
+  - ...many more
 
-### Text Editors
-- Microsoft Word
-- Google Docs
-- Apple Pages
-- ...many more
-
-### Code Editors
-- GitHub's Atom
-- Microsoft VS code, Visual Studio
-- Notepad ++
-- Vim, EMacs, Nano, Textmate
-- ...many more
+# Code Editors
+- Personal choice
+- Allows you to write and manage text that you write to build a website
+- Attributes to look for when choosing:
+  - Code Completion
+    - Start typing, give suggestions
+    - Automatic tag closing
+    - Emmet - shorthand language (built in or extension), speeds up code writing
+- Examples
+  - GitHub's Atom
+  - Microsoft VS code, Visual Studio
+  - Notepad ++
+  - Vim, EMacs, Nano, Textmate
+  - ...many more
 
 ## The Terminal
 AKA: The Command Line Interface (CLI)
