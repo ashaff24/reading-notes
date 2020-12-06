@@ -13,7 +13,7 @@
 - Vim, EMacs, Nano, Textmate
 - ...many more
 
-# The Terminal
+## The Terminal
 AKA: The Command Line Interface (CLI)
 Basically does the same thing as File Explorer but in a different visual presentation
 When you use File Explorer, terminal tasks are actually running behind the scenes
@@ -25,7 +25,7 @@ When you use File Explorer, terminal tasks are actually running behind the scene
 - cd .. = go back one directory
 - touch = create new file
 
-# Layers of Abstraction
+## Layers of Abstraction
 - You won't necessarily know what's happening above or below you
 - Ignore those details that are above or below you
 
