@@ -1,11 +1,11 @@
-# Text Editors
+## Text Editors
 - Examples
   - Microsoft Word
   - Google Docs
   - Apple Pages
   - ...many more
 
-# Code Editors
+## Code Editors
 - Personal choice
 - Allows you to write and manage text that you write to build a website
 - Attributes to look for when choosing:
@@ -40,7 +40,7 @@
   - Has Emmet shorthand for HTML and CSS
   - Has all features mentioned above
 
-## IDE (Integrated Development Environment)
+### IDE (Integrated Development Environment)
 - All in one
   - Text editor
   - File manager
