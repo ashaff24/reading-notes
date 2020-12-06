@@ -28,7 +28,7 @@ When you use File Explorer, terminal tasks are actually running behind the scene
 ## Layers of Abstraction
 - You won't necessarily know what's happening above or below you
 - Ignore those details that are above or below you
-![Layers of Abstraction](Layers of Abstraction.jpg)
+[Layers of Abstraction](Layers of Abstraction.jpg)
 
 
 
