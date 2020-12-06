@@ -13,12 +13,40 @@
     - Start typing, give suggestions
     - Automatic tag closing
     - Emmet - shorthand language (built in or extension), speeds up code writing
+  - Syntax Highlighting
+    - Hightlights the text you type, making it more noticeable
+    - Easier to read
+    - Easier to find errors
+  - Variety of Themes
+    - Reduce eye strain and fatigue
+  - Selection of extensions
+    - Can grow with you as you need
 - Examples
   - GitHub's Atom
   - Microsoft VS code, Visual Studio
   - Notepad ++
   - Vim, EMacs, Nano, Textmate
   - ...many more
+
+### **Built-In vs Third Party:**
+#### Built in
+- Not many features to speak of
+- Bare bones
+
+#### Third Party
+- Options mentioned above
+- Visual Studio Code
+  - What we downloaded
+  - Has Emmet shorthand for HTML and CSS
+  - Has all features mentioned above
+
+## IDE (Integrated Development Environment)
+- All in one
+  - Text editor
+  - File manager
+  - Compiler
+  - Debugger
+- Example: Microsoft Outlook
 
 ## The Terminal
 AKA: The Command Line Interface (CLI)
