@@ -13,7 +13,8 @@
 - easier than what was thought
 - did a seperate profile page
 - little check boxes
-  - []
+  - [ ] Empty Box
+  - [x] Check Box
 - Code Block?
 ```python
 def hello_world():
