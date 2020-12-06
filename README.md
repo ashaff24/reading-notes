@@ -12,6 +12,10 @@ I have four-legged children: two dogs, a cat, and a tortoise.
 
 - [Class 1: Markdown](Markdown.md)
 
+## Review Links
+
+- [Class 1: Review](class1_review.md)
+
 ### What is *Growth Mindset*?
 
 Growth mindset is a more flexible way of thinking than a fixed mindset. This suggests that intelligence, knowledge, talent, and many other characteristics can be improved by hard work and dedication. In this kind of mindset, there is no ability that you "aren't born with." You just have to work hard to improve whatever abilities that might be your focus at any given time. A few ways that I can stay in the growth mindset are to:
