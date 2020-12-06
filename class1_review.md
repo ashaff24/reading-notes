@@ -7,14 +7,14 @@
 -Easily place to organize learnings
 
 ## Markdown
--GitHub can substitute for html in certain environments
--different ways to use markdown
--added a picture (gif)
--easier than what was thought
--did a seperate profile page
--little check boxes
+- GitHub can substitute for html in certain environments
+- different ways to use markdown
+- added a picture (gif)
+- easier than what was thought
+- did a seperate profile page
+- little check boxes
   -[x]
--Code Block?
+- Code Block?
 ```python
 def hello_world():
   pass
