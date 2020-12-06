@@ -11,8 +11,7 @@ I have four-legged children: two dogs, a cat, and a tortoise.
 ## Reading Links
 
 - [Class 1: Growth Mindset & Markdown](Markdown.md)
-- [Class 2](Coders Computer.md)
-
+- [Class 2: Create Coder's Computer](Coders_Computer.md)
 
 ## Review Links
 
