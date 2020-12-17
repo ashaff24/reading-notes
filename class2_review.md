@@ -1,6 +1,6 @@
 # The Coder's Computer
 
-##Things we installed
+### Things we installed
 
 - NVM - Node Version Manager - this manages NPM
 - Homebrew - a way to manage a lot of dependencies on your computer. Use to install things ("brew install") - Pure awesome
