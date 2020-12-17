@@ -2,7 +2,7 @@
 
 Hi, my name is Amanda. I have worked in the animal care world for 20 years and am looking to change jobs. While I am passionate about animals, my body and my mind are telling me I need a career shift and I am excited to learn something new. 
 
-I have four-legged children: two dogs, a cat, and a tortoise.
+I have 4 four-legged children: two dogs, a cat, and a tortoise.
 
 [GitHub Portfolio page](https://github.com/ashaff24)
 
