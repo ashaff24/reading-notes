@@ -103,7 +103,7 @@ A collection of files I have told Git to pay attention to
 - do git status between each stage to make sure you are on the right path
 
 ##### Important functions
-- Create directory - mkdir filename
+- Create directory - `mkdir filename`
 - Change directory - cd
 - List what's in current directory - ls
 - Where am I - pwd
