@@ -16,5 +16,7 @@ I have four-legged children: two dogs, a cat, and a tortoise.
 ## Review Links
 
 - [Class 1: Review](class1_review.md)
+- [Class 2: Review](class2_review.md)
 
+[<== Back](README.md)
 
