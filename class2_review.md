@@ -10,3 +10,5 @@
 - VS Code - code editor (requirement for 201 and 301)
 
 Overall: Installed a lot of applications
+
+[<== Back](README.md)
