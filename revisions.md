@@ -104,20 +104,20 @@ A collection of files I have told Git to pay attention to
 
 ##### Important functions
 - Create directory - `mkdir filename`
-- Change directory - cd
-- List what's in current directory - ls
-- Where am I - pwd
-- Clone repository - git clone link
-- Show hidden files - ls -a
-- Show path where it gets and sends information - git remote -v
-- Open up VS Code - code .
-- Status of repo - git status
-- Tell what changes to commit - git add README.md (can also use git add . to add any files with changes)
-- Take snapshot - git commit -m "your message goes here"
-- Sync code to your GitHub - git push origin main (other computers use master instead of main)
-- Go back one directory - cd ..
-- Remove folder/file - rm -rf filename THIS IS PERMANENT!
-- Get changes from GitHub to computer - git pull origin main
+- Change directory - `cd`
+- List what's in current directory - `ls`
+- Where am I - `pwd`
+- Clone repository - `git clone link`
+- Show hidden files - `ls -a`
+- Show path where it gets and sends information - `git remote -v`
+- Open up VS Code - `code .`
+- Status of repo - `git status`
+- Tell what changes to commit - `git add README.md` (can also use `git add .` to add any files with changes)
+- Take snapshot - `git commit -m "your message goes here"`
+- Sync code to your GitHub - `git push origin main` (other computers use master instead of main)
+- Go back one directory - `cd ..`
+- Remove folder/file - `rm -rf filename` THIS IS PERMANENT!
+- Get changes from GitHub to computer - `git pull origin main`
 
 #### Merge conflict
 If different changes were made in multiple locations (i.e. GitHub and local computer), tring to "push" at the same time will bring up error
