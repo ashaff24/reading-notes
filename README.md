@@ -14,12 +14,13 @@ I have 4 four-legged children: two dogs, a cat, and a tortoise.
 - [Class 2: Create Coder's Computer](Coders_Computer.md)
 - [Class 3: Revisions in the Cloud](revisions.md)
 - [Class 4: Web Pages with HTML](html.md)
+- [Class 5: CSS](css.md)
 
 ## Review Links
 
 - [Class 1: Review](class1_review.md)
 - [Class 2: Review](class2_review.md)
 - [Class 3: Review](class3_review.md)
-
+- [Class 4: Review](class4_review.md)
 
 
