@@ -15,6 +15,7 @@ I have 4 four-legged children: two dogs, a cat, and a tortoise.
 - [Class 3: Revisions in the Cloud](revisions.md)
 - [Class 4: Web Pages with HTML](html.md)
 - [Class 5: CSS](css.md)
+- [Class 6: JS](js.md)
 
 ## Review Links
 
@@ -22,5 +23,6 @@ I have 4 four-legged children: two dogs, a cat, and a tortoise.
 - [Class 2: Review](class2_review.md)
 - [Class 3: Review](class3_review.md)
 - [Class 4: Review](class4_review.md)
+- [Class 5: Review](class5_review.md)
 
 
