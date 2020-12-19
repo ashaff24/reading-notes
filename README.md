@@ -15,7 +15,10 @@ I have 4 four-legged children: two dogs, a cat, and a tortoise.
 - [Class 3: Revisions in the Cloud](revisions.md)
 - [Class 4: Web Pages with HTML](html.md)
 - [Class 5: CSS](css.md)
-- [Class 6: JS](js.md)
+- [Class 6a: JS](js.md)
+- [Class 6b: How Computers Work](HowComputersWork.md)
+- [Class 7: Programming with JS](ProgrammingWithJS.md)
+- [Class 8: Operators and Loops](OperatorsandLoops.md)
 
 ## Review Links
 
