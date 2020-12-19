@@ -18,7 +18,7 @@ I have 4 four-legged children: two dogs, a cat, and a tortoise.
 - [Class 6a: JS](js.md)
 - [Class 6b: How Computers Work](HowComputersWork.md)
 - [Class 7: Programming with JS](ProgrammingWithJS.md)
-- [Class 8: Operators and Loops](OperatorsandLoops.md)
+- [Class 8: Operators and Loops](OperatorsAndLoops.md)
 
 ## Review Links
 
