@@ -2,7 +2,7 @@
 
 ### Operators
 - **Comparison operator**
-    Can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be true/false
+- Can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be true/false
     - `==` is equal to
     - `===` is strict equal to
     - `!=` is not equal to

@@ -1,6 +1,6 @@
 # How Computers Work
 
-All computers do the following 4 things:
+- All computers do the following 4 things:
     - Take input
         - Stuff we do that makes computer do stuff
     - Store info
@@ -10,7 +10,7 @@ All computers do the following 4 things:
     - Output results
          - Depends on what computer is designed to do
 
-This is all done via **binary code**, using 1s and 0s
+- This is all done via **binary code**, using 1s and 0s
     - Nobody really uses binary code directly anymore
     - Plays a big role in how computers work on the inside
     - Inside the computer are electric wires and circuits that carry all of the info in a computer
@@ -18,13 +18,13 @@ This is all done via **binary code**, using 1s and 0s
     - More wires can store more numbers
     - Everything is represented in 1s and 0s, including numbers, text, images and sound
 
-Circuits work to process all of the information
+- Circuits work to process all of the information
     - Responsible for processing the inputs for the correct output
     - Lots of little circuits under the hood of the computer
     - The CPU (central processing unit) tells the computer which circuits to use to process the requested information for the appropriate output
     - Smaller computers are faster than the older, larger computers, because the smaller it is, the less distance electrical circuit has to go
 
-Hardware and software
+- Hardware and software
     - Hardware - chips, circuits, wires, etc
     - Software - computer programs, code
     - CPU - master chip that controls all the other parts of the computer
